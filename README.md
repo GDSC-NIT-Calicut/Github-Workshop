@@ -1,4 +1,4 @@
-# GDGC
+# GDSC
 Helping students to keep their first PR.
 
 # Integration Workflow
